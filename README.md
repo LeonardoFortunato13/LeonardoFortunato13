@@ -30,7 +30,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoFortunato13&theme=radical&hide_border=false&include_all_commits=false&count_private=false&v=2)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoFortunato13&theme=radical&v=3)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoFortunato13&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=2)
 
 ---
